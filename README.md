@@ -1,6 +1,6 @@
-# Template Repo
+# Kindred Code Branding
 
-Standardized starting point for new repos
+Brand Assets for Kindred Code
 
 ## Contents
 
