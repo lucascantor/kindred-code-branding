@@ -3,7 +3,7 @@
 Here’s how to propose a change to this repo:
 
 1. [Create a branch][branch] for the change you intend to make.
-1. Make the changes to you intend to propose.
+1. Make the changes you intend to propose.
 1. [Send a pull request][pr] proposing to merge your changes into the `master` branch.
 1. Your pull request will be assigned to this repo's [codeowners][codeowners] automatically.
 
